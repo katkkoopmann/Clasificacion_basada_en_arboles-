@@ -16,7 +16,7 @@ I chose this dataset because it is a **classic in data analysis**. The survival 
  **Objective:**  
 I will use models such as **logistic regression** or **decision trees** to predict passenger survival based on the available features.
 
-##Spanish##
+Spanish Version
 
 Proyecto: Predicción de Sobrevivencia en el Titanic
 
